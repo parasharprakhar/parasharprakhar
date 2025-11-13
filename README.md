@@ -5,7 +5,7 @@
 Bengaluru, India  
 [Portfolio Website](https://bold.pro/myprakharparashar)  
 [LinkedIn](https://linkedin.com/in/prakharparashar)  
-Contact: prakharparasharaol.com
+Contact: prakharparashar@aol.com
 
 ---
 
