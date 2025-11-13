@@ -17,7 +17,7 @@ Recognized leader in operational excellence, process automation, and SAP S/4HANA
 
 ## 💼 Key Skills & Technologies
 
-- Contract Management
+
 - SAP S/4HANA
 - RPA (Blue Prism)
 - Power BI
@@ -42,23 +42,23 @@ Recognized leader in operational excellence, process automation, and SAP S/4HANA
 
 ## 🎖️ Awards & Achievements
 
-- Best Team Award, Sep 2025
-- GBTS Automation Ambassador, Aug 2025
-- Operational Excellence Award (2022/2023/2024)
-- Pat on the Back Award, Feb 2024
-- Star of the Month (Oct 2018, Jun 2017)
+- Best Team Award
+- GBTS Automation Ambassador
+- Operational Excellence Award
+- Pat on the Back Award
+- Star of the Month
 
 ---
 
 ## 🚀 Experience Highlights
 
-- Led SAP S/4HANA migration (98.7% success rate)
-- Managed transition & training for a 17-member team
-- Implemented five process automation projects
+- Led SAP S/4HANA migration
+- Managed transition & training for new process
+- Implemented and supported in multipke automation projects
 - Reduced order processing time by 85%
 - Developed global customer service SOPs
-- Improved inventory accuracy by 15%
-- Managed 150+ agreements monthly
+- Expert in collaboration
+- Stakeholder management and customer centricity
 
 ---
 
