@@ -3,7 +3,7 @@
 # Prakhar Parashar
 ### AI & Automation Strategist | Digital Transformation Leader | SAP S/4HANA | RPA | No-Code GenAI
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-prakharparashar.lovable.app-00d4aa?style=for-the-badge&logo=vercel)](https://prakharparashar.lovable.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-00d4aa?style=for-the-badge&logo=vercel)](https://prakhar-parashar-automation-leader.lovable.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-prakharparashar-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/prakharparashar)
 [![Email](https://img.shields.io/badge/Email-prakharparashar@aol.com-D14836?style=for-the-badge&logo=gmail)](mailto:prakharparashar@aol.com)
 
@@ -13,9 +13,9 @@
 
 ## About Me
 
-I am a **Digital Transformation Leader** with 13+ years of experience bridging the gap between business operations and intelligent automation. I don't write code — I design, lead, and deliver AI-enabled solutions that actually work in the real world.
+I'm a Digital Transformation & Automation Leader with 13+ years in international, customer-facing operations — the last several years focused on RPA, intelligent automation, and Order-to-Cash transformation at Mann+Hummel. I don't write code; I design, lead, and deliver automation solutions that work in the real world.
 
-Currently serving as **Senior Operations & Digital Transformation Leader** at **Mann+Hummel**, Bengaluru — where I hold a dual mandate: leading a 17-analyst global Order Management team **and** acting as the organisation's **GBTS Automation Ambassador**, owning the full RPA-AI pipeline from business case to go-live.
+Currently **Senior Lead Analyst** at **Mann+Hummel**, Bengaluru (promoted from Lead Analyst) — I run Order Management and Customer Service while covering Team-Leader-level scope, with no Team Leader currently appointed above me. I'm also the organisation's **GBTS Automation Ambassador** and an **Automation CoE citizen developer** (NEOOPS-certified), owning the RPA-AI pipeline from business case to go-live.
 
 > *"You don't need to be a developer to build AI-powered solutions. You need to understand the problem, know the tools, and lead the execution."*
 
@@ -129,7 +129,7 @@ No-code GenAI application | Cross-functional OM/AR/AP/CS terminology tool | Buil
 
 **Open to conversations about AI, automation strategy, and digital transformation.**
 
-[![Portfolio](https://img.shields.io/badge/View_Full_Portfolio-prakharparashar.lovable.app-00d4aa?style=for-the-badge)](https://prakharparashar.lovable.app)
+[![Portfolio](https://img.shields.io/badge/View_Full_Portfolio-Live_Site-00d4aa?style=for-the-badge)](https://prakhar-parashar-automation-leader.lovable.app)
 
 *Bengaluru, India | prakharparashar@aol.com*
 
