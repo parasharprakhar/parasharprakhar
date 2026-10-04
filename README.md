@@ -101,7 +101,7 @@ No-code GenAI application | Cross-functional OM/AR/AP/CS terminology tool | Buil
 
 ## Core Skills
 
-[![Skills Periodic Table](https://img.shields.io/badge/Skills-Periodic_Table-5aa7ff?style=for-the-badge)](https://id-preview--dc41eedd-5bef-41a7-91f9-ba3aa37778fa.lovable.app)
+[![Skills Periodic Table](https://img.shields.io/badge/Skills-Periodic_Table-5aa7ff?style=for-the-badge)](https://skill-elements-of-prakhar.lovable.app)
 *Interactive periodic table of my automation, SAP, process and AI skills. Hover any element for the work behind it.*
 
 `SAP S/4HANA` `RPA – Blue Prism` `Generative AI` `No-Code App Development` `Process Automation`
