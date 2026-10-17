@@ -6,7 +6,7 @@
 # PRAKHAR PARASHAR
 Senior Operations & Digital Transformation Leader — Bengaluru, India
 
-[Portfolio](https://parasharprakhar.github.io/) • [LinkedIn](https://linkedin.com/in/prakharparashar)
+[Portfolio](https://parasharprakhar.github.io/) • [LinkedIn](https://linkedin.com/in/prakharparashar) • [Download Resume](https://github.com/parasharprakhar/parasharprakhar/raw/main/Prakhar%20Parashar.pdf)
 
 ---
 
@@ -75,6 +75,7 @@ I prefer professional outreach via LinkedIn. To connect or request detailed resu
 
 LinkedIn: https://linkedin.com/in/prakharparashar
 Portfolio: https://parasharprakhar.github.io/
+Download Resume: https://github.com/parasharprakhar/parasharprakhar/raw/main/Prakhar%20Parashar.pdf
 
 ---
 
