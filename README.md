@@ -1,139 +1,86 @@
-<div align="center">
+<!--
+  Minimal — Modern Dark-Accent README
+  Optimized for professional clarity and engagement. Contact via LinkedIn DM.
+-->
 
-# Prakhar Parashar
-### AI & Automation Strategist | Digital Transformation Leader | SAP S/4HANA | RPA | No-Code GenAI
+# PRAKHAR PARASHAR
+Senior Operations & Digital Transformation Leader — Bengaluru, India
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-00d4aa?style=for-the-badge&logo=vercel)](https://prakhar-parashar-automation-leader.lovable.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-prakharparashar-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/prakharparashar)
-[![Email](https://img.shields.io/badge/Email-prakharparashar@aol.com-D14836?style=for-the-badge&logo=gmail)](mailto:prakharparashar@aol.com)
-
-</div>
-
----
-
-## About Me
-
-I'm a Digital Transformation & Automation Leader with 13+ years in international, customer-facing operations — the last several years focused on RPA, intelligent automation, and Order-to-Cash transformation at Mann+Hummel. I don't write code; I design, lead, and deliver automation solutions that work in the real world.
-
-Currently **Senior Lead Analyst** at **Mann+Hummel**, Bengaluru (promoted from Lead Analyst) — I run Order Management and Customer Service while covering Team-Leader-level scope, with no Team Leader currently appointed above me. I'm also the organisation's **GBTS Automation Ambassador** and an **Automation CoE citizen developer** (NEOOPS-certified), owning the RPA-AI pipeline from business case to go-live.
-
-> *"You don't need to be a developer to build AI-powered solutions. You need to understand the problem, know the tools, and lead the execution."*
+[Portfolio](https://parasharprakhar.github.io/) • [LinkedIn](https://linkedin.com/in/prakharparashar)
 
 ---
 
-## Impact at a Glance
-
-| Metric | Achievement |
-|--------|-------------|
-| RPA Initiatives Delivered | **7 — 100% on-time, zero rework** |
-| SAP S/4HANA Migration | **98.7% success, zero revenue disruption** |
-| Cycle Time Reduction | **99.8% (2 days → 5 minutes)** |
-| CSAT Improvement | **85% → 97%** |
-| Backorder Reduction | **$19M → <$1M, 3 months ahead of target** |
-| Post-Migration Issues Resolved | **2,000+ in 3 days** |
-| Team Managed | **17 global analysts** |
-| Countries Standardised | **12** |
+> "Build automation that reduces effort, increases trust, and scales with people." — Prakhar Parashar
 
 ---
 
-## What I Do
+## Snapshot
+- 13+ years in global operations, automation & analytics
+- Automation & Analytics Programme Lead | RPA Strategist | People Manager (17+)
+- GCC/GBS — Order Management & Customer Service (O2C) specialist
 
-### Intelligent Automation & RPA
-- Business SME for Blue Prism RPA programmes — idea through PDD/SDD, UAT, go-live
-- Designed and deployed **VocabPro** and **VocabPro 2.0** — no-code AI dictionary apps for cross-functional OM/AR/AP/CS teams
-- Contributed to AI-enabled automation projects using **Decipher** and **Nanonets** (ACQUA, MOESA)
-- End-to-end lifecycle ownership: business case → process design → testing → adoption
-
-### SAP S/4HANA
-- Sole **Global Point of Contact** for Mann+Hummel's SAP S/4HANA migration
-- Cross-functional testing across AP, AR, EDI, Intercompany streams
-- Resolved 2,000+ post-migration issues within 72 hours
-
-### AI Tools & No-Code Development
-- Built no-code AI applications without writing a single line of code
-- Certified in Generative AI (Microsoft), AI Agent Building (LinkedIn), Security Risks in AI/ML
-- Actively exploring and applying GenAI tools in operational contexts
-
-### People & Stakeholder Leadership
-- Manages 17 analysts across GBTS Order Management
-- Influences Finance, IT, Operations, and CoE stakeholders without direct authority
-- Community of Practice leader — cross-functional alignment across 12 countries
+Key metrics
+- 7 Blue Prism RPA initiatives — 100% on-time go-live
+- 99.8% cycle-time reduction (Return Analysis Automation)
+- 98.7% SAP S/4HANA migration success (zero revenue disruption)
+- CSAT improvement: 85% → 97%
+- Led and coached 17+ analysts across 12 countries
 
 ---
 
-## Key Projects
+## What I do
+I own business-side automation: identify high-value use cases, author PDD/SDD inputs, validate builds, lead UAT, govern KPI & ROI tracking, and drive adoption. I partner with engineering and CoE teams to deliver scalable, maintainable RPA and AI-supported solutions.
 
-**Return Analysis Automation (2023)**
-Blue Prism automation | 99.8% cycle-time reduction | 2 FTE benefit | Business SME + UAT Lead
-
-**SAP S/4HANA Global Migration (2024)**
-Global POC | 98.7% success | Zero revenue disruption | 2,000+ issues resolved in 3 days
-
-**Blue Prism RPA Portfolio — 7 Initiatives (2022–2025)**
-100% on-time go-live | 85% cycle-time reduction | 300 orders/month automated
-
-**Backorder Reduction (2024)**
-$19M → <$1M | Completed 3 months ahead of programme timeline
-
-**VocabPro AI App (2025)**
-No-code GenAI application | Cross-functional OM/AR/AP/CS terminology tool | Built without coding
+Core focus areas:
+- Automation Strategy & Governance
+- RPA Programme Management (Blue Prism)
+- Analytics & KPI Governance (Power BI)
+- Process Insights (Celonis) & Automation ROI
+- AI-supported automation (Decipher, Nanonets) & Generative AI
+- SAP S/4HANA transformation for O2C
+- Global people leadership, change management, training
 
 ---
 
-## Certifications
-
-| Certification | Issuer | Year |
-|--------------|--------|------|
-| Blue Prism Developer | SS&C Blue Prism | 2025 |
-| Lean Six Sigma with AI – Green Belt | LinkedIn | 2025 |
-| Build Your Own AI Agent (No Code) | LinkedIn | 2026 |
-| Generative AI Tools | Microsoft | 2025 |
-| Security Risks in AI & ML | LinkedIn | 2025 |
-| Root Cause Analysis | PMI | 2025 |
-| Atlassian Agile Project Management | Atlassian | 2025 |
-| ServiceNow IT Leadership | ServiceNow | 2024 |
-| Zendesk Customer Service Professional | Zendesk | 2024 |
-| SAP S/4HANA Essential Training | LinkedIn | 2024 |
-| Intelligent Automation Foundations | LinkedIn | 2024 |
-| Process Discovery for RPA | LinkedIn | 2024 |
+## Selected impact
+- Return Analysis Automation — reduced processing from days to minutes; delivered FTE benefit and full business acceptance.
+- SAP S/4HANA Global Migration — Global POC for OM & CS; managed cross-stream testing and rapid issue stabilization post-go-live.
+- Backorder reduction workstream — delivered multi‑million USD improvement ahead of plan.
+- Built VocabPro — a no-code GenAI dictionary to standardize terminology across OM/AR/AP/CS.
 
 ---
 
-## Core Skills
+## Experience (short)
+**Senior Lead Analyst — Mann+Hummel Filters, Bengaluru** (Jul 2025 – Present)
+- End-to-end automation lifecycle ownership for global Order Management & Customer Service.
+- GCC Automation Ambassador and Automation CoE citizen-developer.
+- Led 7 Blue Prism initiatives, owned UAT and business validation, and built executive KPI/ROI reporting.
 
-[![Skills Periodic Table](https://img.shields.io/badge/Skills-Periodic_Table-5aa7ff?style=for-the-badge)](https://skill-elements-of-prakhar.lovable.app)
-*Interactive periodic table of my automation, SAP, process and AI skills. Hover any element for the work behind it.*
-
-`SAP S/4HANA` `RPA – Blue Prism` `Generative AI` `No-Code App Development` `Process Automation`
-`Lean Six Sigma (Green Belt)` `Power BI` `Stakeholder Management` `Change Management`
-`KPI Governance` `ServiceNow` `Zendesk` `Global Operations` `Order-to-Cash (O2C)`
-`Team Leadership (17 members)` `UAT Lead` `Business Process Analysis` `SOP Development`
+(Full CV and project artifacts available on request.)
 
 ---
 
-## Awards & Recognition
-
-- **GBTS Automation Ambassador** — Mann+Hummel, 2025 *(Appointed)*
-- **Best Team Award** — Mann+Hummel, 2025
-- **Operational Excellence Award** x3 — Mann+Hummel, 2022, 2023, 2024
-- **Pat on the Back Award** — Mann+Hummel, 2024
-- **Star of the Month** x2 — Capgemini, 2017, 2018
+## Certifications & tools
+Blue Prism Developer · Lean Six Sigma (Green Belt) · Generative AI (Microsoft) · Build Your Own AI Agent (LinkedIn) · Power BI · Decipher · Nanonets · ServiceNow · Zendesk · SharePoint
 
 ---
 
-## Education
-
-- **Masters of Tourism Administration** — Banaras Hindu University, 2012
-- **Bachelor of Science** — Veer Bahadur Singh Purvanchal University, 2010
+## Awards & recognition
+GBTS Automation Ambassador — Mann+Hummel (2025) · Best Team Award (2025) · Operational Excellence Awards (2022–2024)
 
 ---
 
-<div align="center">
+## Contact & collaboration
+I prefer professional outreach via LinkedIn. To connect or request detailed resume/project artifacts, please DM me on LinkedIn and include context for the request so I can respond faster.
 
-**Open to conversations about AI, automation strategy, and digital transformation.**
+LinkedIn: https://linkedin.com/in/prakharparashar
+Portfolio: https://parasharprakhar.github.io/
 
-[![Portfolio](https://img.shields.io/badge/View_Full_Portfolio-Live_Site-00d4aa?style=for-the-badge)](https://prakhar-parashar-automation-leader.lovable.app)
+---
 
-*Bengaluru, India | prakharparashar@aol.com*
+## Security & privacy
+Sensitive internal metrics and detailed artefacts are available on request; not published here. Resume and internal project materials will be shared after an initial conversation via LinkedIn.
 
-</div>
+---
+
+If you'd like a downloadable resume link added here, or want the README themed differently (light/minimal, badge-rich, timeline), tell me which style and I'll update it.
